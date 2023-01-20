@@ -1,7 +1,7 @@
-# Sample Project 
+**# Sample Project **
 
 ### Description
-We use this file as a way to learn rebasing and GitHub workflow
+<li> We use this file as a way to learn rebasing and GitHub workflow </li>
 
 ### Name
 
